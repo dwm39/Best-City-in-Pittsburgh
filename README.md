@@ -14,7 +14,7 @@ Data Sets
 
 1. The first data set used is one that shows the all of the different crimes in the city of Pittsburgh in different neighborhoods. (https://data.wprdc.org/dataset/uniform-crime-reporting-data)
 2. The second data set shows the traffic in each of the neigborhoods. https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh
-3. The third data set shows public housing available in each neighborhood. (link)
+3. The third data set shows public housing available in each neighborhood. (https://data.wprdc.org/dataset/publically-available-properties)
 
 Conclusion:
 
